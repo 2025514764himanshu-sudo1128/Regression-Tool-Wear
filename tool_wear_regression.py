@@ -8,9 +8,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # ============================================================
-# EXPERIMENT 7: Regression Model for Tool Wear Prediction
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 class DatasetError(ValueError):
