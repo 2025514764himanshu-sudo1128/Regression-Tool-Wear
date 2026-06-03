@@ -1,8 +1,5 @@
 # Experiment 07: Regression Model for Tool Wear Predictive Maintenance
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -66,8 +63,8 @@ python -c "import matplotlib; print('Matplotlib:', matplotlib.__version__)"
 ## How to Run
 
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp07-Regression-Tool-Wear.git
-cd Exp07-Regression-Tool-Wear
+git clone https://github.com/2025514764himanshu-sudo1128/Regression-Tool-Wear.git
+cd Regression-Tool-Wear
 python tool_wear_regression.py
 ```
 
